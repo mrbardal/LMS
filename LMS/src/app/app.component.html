@@ -1,0 +1,13 @@
+<h1>Mohammd Reza Bardal</h1>
+<hr>
+<p>I am designing an educational site to provide specialized and advanced content in the following fields:</p>
+<ul>
+    <!-- <li *ngFor="let item of courses">
+        {{item.title}}
+    </li> -->
+    @for (item of courses; track $index) {
+    <li>
+        {{item.title}}
+    </li>
+    }
+</ul>
