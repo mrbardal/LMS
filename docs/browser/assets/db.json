@@ -1,0 +1,12 @@
+{
+    "cousrses": [
+        {
+            "id": 1,
+            "title": ".NET Core 8.0"
+        },
+        {
+            "id": 2,
+            "title": "Angular 17.0"
+        }
+    ]
+}
